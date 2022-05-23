@@ -1,1 +1,2 @@
 Hello , there! This is RJ learing about git.
+Having fun learing Git.
