@@ -1,2 +1,2 @@
-Hello , there! This is RJ learing about git.
-Having fun learing Git.
+Hello , there! This is RJ learning about git.
+Having fun learning Git.
